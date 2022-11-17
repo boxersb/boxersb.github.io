@@ -1,0 +1,39 @@
+{
+  "name": "boxersb.github.io",
+  "version": "2.0.0-alpha",
+  "description": "boxersb's blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/boxersb/boxersb.github.io.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "react",
+    "next",
+    "typescript"
+  ],
+  "author": "Kyoungtaek Koo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boxersb/boxersb.github.io/issues"
+  },
+  "homepage": "https://github.com/boxersb/boxersb.github.io#readme",
+  "dependencies": {
+    "@titicaca/eslint-config-triple": "^4.0.0",
+    "husky": "^8.0.1",
+    "intersection-observer": "^0.12.2",
+    "lint-staged": "^13.0.3",
+    "next": "^13.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25"
+  }
+}
